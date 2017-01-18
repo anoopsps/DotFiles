@@ -37,7 +37,7 @@ set wrap!
 " Explore the shorcut for navigating to the begining of current function/class definition
 " Explore option of navigating left-right and deleting one word at a time.
 " Explore vsplit for splitting the screen and navigating control back and forth to partitions
-" Explore short key for commenting the line under current cursor position
+" Explore short key for commenting/uncommenting the line under current cursor position
 
 let @i = "oimport pdb; pdb.set_trace()"
 let @s = "ofrom pprint import pprint as pp; pp(    )"
