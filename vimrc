@@ -36,6 +36,7 @@ set wrap!
 " Maximize minimize window and switch windows (system level )
 " Explore the shorcut for navigating to the begining of current function/class definition
 " Explore option of navigating left-right and deleting one word at a time.
+" Explore vsplit for splitting the screen and navigating control back and forth to partitions
 
 let @i = "oimport pdb; pdb.set_trace()"
 let @s = "ofrom pprint import pprint as pp; pp(    )"
