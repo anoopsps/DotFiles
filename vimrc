@@ -34,10 +34,17 @@ set wrap!
 "Delete one tab at a time if possible 
 " good to go through : http://www.integralist.co.uk/posts/vim-3.html
 " Maximize minimize window and switch windows (system level )
-" Explore the shorcut for navigating to the begining of current function/class definition
+
 " Explore option of navigating left-right and deleting one word at a time.
 " Explore vsplit for splitting the screen and navigating control back and forth to partitions
+
+
+
 " Explore short key for commenting/uncommenting the line under current cursor position
+" Explore the shorcut for navigating to the begining of current function/class definition
+
+
+
 
 let @i = "oimport pdb; pdb.set_trace()"
 let @s = "ofrom pprint import pprint as pp; pp(    )"
