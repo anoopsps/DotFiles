@@ -24,7 +24,7 @@ set wrap!
 "map <S> viw  "http://vim.1045645.n5.nabble.com/select-the-word-under-the-cursor-td1149121.html
 "Tried to define macros :  http://stackoverflow.com/questions/17086362/insert-predefined-text-on-keyboard-shortcut
 "
-"Need a way for searching current word. A short cut way to replace a word globally
+"Need a way for searching current word. A short cut way to replace a word globally (if possible locally also)
 "Need a short key for replacing, current word
 "Deleting and and navigating cursor one word at a time.
 "Need to explore if its fine to override the default behavior of vim commands in various modes
