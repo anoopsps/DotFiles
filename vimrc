@@ -67,4 +67,5 @@ set laststatus=2
 set statusline+=%F
 "http://unix.stackexchange.com/questions/111558/how-can-i-constantly-see-the-current-filename-in-vim
 
-
+"How to copy cut and paste across the tabs of vim
+"A plugin for auto indentation before running write command. 
